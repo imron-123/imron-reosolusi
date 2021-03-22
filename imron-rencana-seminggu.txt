@@ -6,4 +6,6 @@ imron rencana seminggu
  1. Mencari tau pengaplikasian bahasa python
  2. mencoba beberapa pengaplikasiannya
 -mneyelesaikan tugas UTS jika ada
+ 1. UTS ARSIKOM
+ 2. UTS metode numerik
 -memplaning minggu depannya lagi
