@@ -3,5 +3,7 @@ imron rencana seminggu
  1. Pengertian git
  2. Pngertain github
 -mendalami bahsa python
+ 1. Mencari tau pengaplikasian bahasa python
+ 2. mencoba beberapa pengaplikasiannya
 -mneyelesaikan tugas UTS jika ada
 -memplaning minggu depannya lagi
