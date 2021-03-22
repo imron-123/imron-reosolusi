@@ -5,6 +5,7 @@ imron rencana seminggu
 -mendalami bahsa python
  1. Mencari tau pengaplikasian bahasa python
  2. mencoba beberapa pengaplikasiannya
+ 3. mencari beberapa referensi belajar
 -mneyelesaikan tugas UTS jika ada 
  1. UTS metode numerik
  2. UTS prak rangakain elektronika
